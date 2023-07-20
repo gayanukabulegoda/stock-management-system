@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class prfCourseWorkEnhanced {
+class StockManagementPRF {
 	static Scanner input = new Scanner(System.in);
 	static String[][] cred = {{"admin", "1234"}};
 	static String[][] supplier = new String[1][2];
