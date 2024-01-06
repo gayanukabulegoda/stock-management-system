@@ -33,6 +33,7 @@ To insatall & run the project, follow these steps:
 <a href="https://github.com/gayanukabulegoda" target="blank"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.geany.org/" target="blank"><img src = "https://img.shields.io/badge/Geany-100000?style=for-the-badge&logo=editorconfig&logoColor=white"></a>
 <a href="https://jdk.java.net/java-se-ri/11-MR2" target="blank"><img src = "https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a href="https://gitlab.gnome.org/GNOME/gnome-terminal" target="blank"><img src = "https://img.shields.io/badge/Gnome%20terminal-100000?style=for-the-badge&logo=gnome%20terminal&logoColor=white"></a>
 <a href="https://linuxmint.com/download_all.php" target="blank"><img src = "https://img.shields.io/badge/Linux_Mint-100000?style=for-the-badge&logo=linux-mint&logoColor=white"></a>
 </div> <br>
 <p align="center">
